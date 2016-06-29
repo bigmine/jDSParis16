@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background-image: url("../img/paris.jpg");
+    background-image: url("img/paris.jpg");
     background-size: cover;
 }
 
