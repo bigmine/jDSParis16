@@ -1,10 +1,10 @@
 # Site settings
-title: Saclay Junior Conference Data Science
+title: Paris Saclay Junior Conference Data Science
 email: your-email@domain.com
-url: https://example.github.io
+url: https://bigmine.github.io/jDSParis16
 description: "Paris-Saclay Junior Conference on Data Science and Engineering" 
 meta_author: Albert Bifet
-skills: "Paris, 14-15 September 2016"
+skills: "Paris, 15-16 September 2016"
 
 # Google webmaster tools
 google_verify:
