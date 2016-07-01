@@ -81,7 +81,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #FFF;
     background-image: url("img/paris.jpg");
     background-size: cover;
 }
@@ -183,6 +183,11 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+section.success_dark {
+    color: #fff;
+    background-color: #{{ site.color.secondary }};
 }
 
 @media(max-width:767px) {
@@ -454,4 +459,12 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.logo {
+    text-align: center;  /*for centering images inside*/
+}
+.logo img {
+    width: auto;        /*maintain the aspect ratio*/
+    height: 80px;      /*set the height or max-height*/
 }
