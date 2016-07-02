@@ -1,12 +1,10 @@
 ---
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2014-07-16
-img: speaker_female.png
+img: glugosi.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: TBD
-description: TBD
+title: Gabor Lugosi
+description: Pompeu Fabra University
 
 ---
