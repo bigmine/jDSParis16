@@ -35,7 +35,7 @@ footer:
   copyright: #Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: Contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +50,7 @@ address:
   - line: Paris, France
 
 # Credits content
-credits: ''
+credits: <a href="mailto:contact@junior-data-science.org" target="_top">contact@junior-data-science.org</a>
 
 # Build settings
 markdown: kramdown
