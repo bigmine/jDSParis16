@@ -46,7 +46,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Université Paris-Saclay
+  - line: <a href="https://www.universite-paris-saclay.fr/fr">Université Paris-Saclay</a>
   - line: Paris, France
 
 # Credits content
