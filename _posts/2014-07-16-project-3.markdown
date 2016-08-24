@@ -4,7 +4,9 @@ modal-id: 2
 date: 2014-07-16
 img: glugosi.jpg
 alt: image-alt
-title: Gabor Lugosi
-description: Pompeu Fabra University
+name: Gabor Lugosi
+affiliation: Pompeu Fabra University
+title:
+abstract:
 
 ---

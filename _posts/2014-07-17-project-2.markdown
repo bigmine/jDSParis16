@@ -4,7 +4,9 @@ modal-id: 3
 date: 2014-07-17
 img: valduriez.jpg
 alt: image-alt
-title: Patrick Valduriez
-description: INRIA Sophia Antipolis - Méditerranée, LIRMM
+name: Patrick Valduriez
+affiliation: INRIA Sophia Antipolis - Méditerranée, LIRMM
+title:
+abstract:
 
 ---

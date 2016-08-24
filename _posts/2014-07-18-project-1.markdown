@@ -4,6 +4,8 @@ modal-id: 1
 date: 2014-07-18
 img: jegou.jpg
 alt: image-alt
-title: Herve Jegou
-description: Facebook AI Research
+name: Herve Jegou
+affiliation: Facebook AI Research
+title: Research in Artificial Intelligence at Facebook
+abstract: I will first present some of the research activity carried out at the Artificial Intelligence laboratory of Facebook, namely FAIR. Our research covers very different topics, such as computer vision, natural language processing, reasoning, optimization and large-scale processing. I will then present a specific work on similarity search, namely Polysemous codes (joint work with Matthijs Douze and Florent Perronnin). It addresses the problem of efficiently searching in a billion-sized collections of high-dimensional vectors, representing for instance images. I will conclude by a discussion comparing my experience of research in academia and at Facebook.
 ---
