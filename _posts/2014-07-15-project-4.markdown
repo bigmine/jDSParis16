@@ -5,7 +5,7 @@ date: 2014-07-16
 img: guyon.jpg
 alt: image-alt
 name: Isabelle Guyon
-affiliation: ClopiNet
+affiliation: ClopiNet, Université Paris-Saclay, INRA
 title:
 abstract:
 project-date:
