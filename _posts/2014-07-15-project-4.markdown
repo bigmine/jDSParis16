@@ -6,8 +6,8 @@ img: guyon.jpg
 alt: image-alt
 name: Isabelle Guyon
 affiliation: ClopiNet, Université Paris-Saclay, INRIA
-title:
-abstract:
+title: Quels nouveaux défis en Science des Données?
+abstract: Alors qu’il y a quelques années on avait peine à expliquer en dehors d’un cercle d’avertis ce qu’est le “machine learning”, aujourd’hui tout scientifique qui se respecte semble en avoir entendu parler et voudrait devenir expert en “sciences des données”. Hier l’Intelligence Artificielle (IA) mettait en avant la logique des prédicats tentait d’éradiquer les réseaux de neurones, aujourd’hui les promoteurs du “deep learning”, héritiers des réseaux de neurones, sont les chefs de file de la nouvelle IA. Qu’est-ce que demain nous reserve? Cet exposé propose un regard différent sous l’angle des applications et invite le nouvelle génération à relever les défis liés à l’automatisation des taches, à l’”interprétabilité” des machines douées d’apprentissage et de leurs décisions, et aux interfaces homme-machine.
 project-date:
 client:
 category:
